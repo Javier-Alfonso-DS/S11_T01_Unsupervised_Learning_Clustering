@@ -19,4 +19,3 @@ Level 3
 
 - Exercise 3
 Calculate the performance of clustering using a parameter such as silhouette.
-
